@@ -3,7 +3,9 @@
 I'm Obed, a creative designer and Fullstack developer based in Nigeria. I keep track of my dev projects with this repo.
 
 😄 Pronouns: He, Him
+
 🔭 I’m currently working on the future of entertainment.
+
 ⚡ Fun fact: I mostly work alone, but i build better, and ship faster than most teams.
 
 <!--
