@@ -1,4 +1,4 @@
-## Hi there 👋
+## Heyo 👋
 
 <!--
 **cxde-rxnin/cxde-rxnin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
