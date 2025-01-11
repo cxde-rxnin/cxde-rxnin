@@ -4,7 +4,7 @@ I'm Obed, a creative Product designer and Fullstack developer based in Nigeria. 
 
 😄 Pronouns: He, Him
 
-🔭 I’m currently working on the future of entertainment.
+🔭 I’m currently working on the future of collaboration.
 
 ⚡ Fun fact: I mostly work alone, but i build better, and ship faster than most teams.
 
