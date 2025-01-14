@@ -1,6 +1,6 @@
 ## Heyo 👋
 
-I'm Obed, a creative Product designer and Fullstack developer based in Nigeria. I keep track of my dev projects with this repo.
+I'm Obed, a creative Product designer and Fullstack developer based in Nigeria. I keep track of my dev projects here.
 
 😄 Pronouns: He, Him
 
