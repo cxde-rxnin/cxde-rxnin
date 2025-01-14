@@ -8,6 +8,8 @@ I'm Obed, a creative Product designer and Fullstack developer based in Nigeria. 
 
 ⚡ Fun fact: I mostly work alone, but i build better, and ship faster than most teams.
 
+[![trophy](https://github-profile-trophy.vercel.app/?cxde-rxnin=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 **cxde-rxnin/cxde-rxnin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
